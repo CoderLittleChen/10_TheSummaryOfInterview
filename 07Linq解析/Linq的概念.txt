@@ -1,0 +1,3 @@
+﻿1、Linq是语言集成查询的缩写，Language  Integrated Query。Linq的提出是为了跨越各种数据源的统一查询方式
+2、主要有Linq to Objects		Linq to XML		Linq	to	 Dataset		Linq to Sql
+
