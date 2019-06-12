@@ -11,7 +11,7 @@ namespace _08聚集索引和非聚集索引
         static void Main(string[] args)
         {
             //聚集索引和非聚集索引
-            //索引
+            //索引     
         }
     }
 }
