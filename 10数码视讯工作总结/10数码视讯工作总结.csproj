@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="Excel的使用方法.txt" />
     <Content Include="Git的使用方法.txt" />
+    <Content Include="OA问题总结.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
