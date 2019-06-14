@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08聚集索引和非聚集索引
+namespace _10数码视讯工作总结
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //聚集索引和非聚集索引    
-            //索引     
         }
     }
 }
