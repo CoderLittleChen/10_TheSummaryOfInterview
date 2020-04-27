@@ -10,6 +10,7 @@ namespace _17抽象类和抽象方法
     {
         static void Main(string[] args)
         {
+            //dsadsa
         }
     }
 }
